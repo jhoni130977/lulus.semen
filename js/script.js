@@ -26,7 +26,7 @@ function searchMovies() {
 								<table border=0 width=100%>
 									<tr><td>No. Ujian </td><td>:<b> ` + data.no + `</td></tr>
 									<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-									<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+									<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 								</table><br><br><p><p>
 								<table width=100%>
 									<tr><td><h4><center>&nbsp;</h4></td></tr>
@@ -53,7 +53,7 @@ function searchMovies() {
 								<table border=0 width=100%>
 									<tr><td>No. Ujian </td><td>:<b> ` + data.no + `</td></tr>
 									<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-									<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+									<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 								</table><br><br><p><p>
 								<table width=100%>
 									<tr><td><h4><center>&nbsp;</h4></td></tr>
@@ -70,7 +70,7 @@ function searchMovies() {
 								<table border=0 width=100%>
 									<tr><td>No. Ujian </td><td>:<b> ` + data.no + `</td></tr>
 									<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-									<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+									<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 								</table><br><br><p><p>
 								<table width=100%>
 									<tr><td><h4><center>&nbsp;</h4></td></tr>
